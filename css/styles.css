@@ -38,7 +38,7 @@ img {
 .section {
   width: 1440px;
   padding-bottom: 120px;
-  outline: 1px solid red;
+  /* outline: 1px solid red; */
 }
 .header.section {
   padding-bottom: 0;
@@ -47,7 +47,7 @@ img {
   max-width: 1158px;
   padding: 0 16px;
   margin: 0 auto;
-  outline: 1px solid blue;
+  /* outline: 1px solid blue; */
 }
 /*   default headers h2 format */
 .features-header,
