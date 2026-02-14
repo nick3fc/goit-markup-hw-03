@@ -41,6 +41,7 @@ img {
   /* outline: 1px solid red; */
 }
 .header.section {
+  border-bottom: 1px solid #e7e9fc;
   padding-bottom: 0;
 }
 .container {
