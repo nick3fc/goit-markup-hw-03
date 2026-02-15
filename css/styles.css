@@ -97,7 +97,7 @@ img {
   color: #4d5ae5;
 }
 /*   container settings   */
-.headerblock {
+.header-block {
   display: flex;
   align-items: center;
 }
@@ -291,7 +291,7 @@ img {
   padding-bottom: 100px;
   background-color: #2e2f42;
 }
-.footerblock {
+.footer-block {
   display: flex;
   flex-direction: column;
   gap: 16px;
