@@ -38,6 +38,7 @@ img {
 }
 /*   default containers format   */
 .section {
+  width: 100%;
   padding-top: 120px;
   padding-bottom: 120px;
   /* outline: 1px solid red; */
